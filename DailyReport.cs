@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//A simple console app to query the user and temporarily store their responses in varaibles.
 
-//A simple console app to query the user and temporarily store their responses in varaibles. 
+using System;
 
 
 class DailyReport
@@ -38,4 +34,3 @@ class DailyReport
         Console.Read();
     }
 }
-
