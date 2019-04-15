@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\bin\Debug\insuranceApproval.exe.config
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\bin\Debug\insuranceApproval.exe
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\bin\Debug\insuranceApproval.pdb
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\obj\Debug\insuranceApproval.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\obj\Debug\insuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\obj\Debug\insuranceApproval.exe
+C:\Users\Jamie\source\repos\insuranceApproval\insuranceApproval\obj\Debug\insuranceApproval.pdb
