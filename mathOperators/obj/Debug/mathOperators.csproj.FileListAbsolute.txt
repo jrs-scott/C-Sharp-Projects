@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\obj\Debug\mathOperators.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\obj\Debug\mathOperators.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\bin\Debug\mathOperators.exe.config
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\bin\Debug\mathOperators.exe
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\bin\Debug\mathOperators.pdb
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\obj\Debug\mathOperators.exe
+C:\Users\Jamie\source\repos\mathOperators\mathOperators\obj\Debug\mathOperators.pdb
