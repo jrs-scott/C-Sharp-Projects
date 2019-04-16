@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\obj\Debug\stringExamples.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\obj\Debug\stringExamples.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\bin\Debug\stringExamples.exe.config
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\bin\Debug\stringExamples.exe
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\bin\Debug\stringExamples.pdb
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\obj\Debug\stringExamples.exe
+C:\Users\Jamie\source\repos\stringExamples\stringExamples\obj\Debug\stringExamples.pdb
