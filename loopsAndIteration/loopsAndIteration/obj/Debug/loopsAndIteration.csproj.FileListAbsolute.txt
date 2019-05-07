@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\bin\Debug\loopsAndIteration.exe.config
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\bin\Debug\loopsAndIteration.exe
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\bin\Debug\loopsAndIteration.pdb
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\obj\Debug\loopsAndIteration.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\obj\Debug\loopsAndIteration.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\obj\Debug\loopsAndIteration.exe
+C:\Users\Jamie\source\repos\loopsAndIteration\loopsAndIteration\obj\Debug\loopsAndIteration.pdb
