@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\parameterExample\bin\Debug\parameterExample.exe.config
+C:\Users\Jamie\source\repos\parameterExample\bin\Debug\parameterExample.exe
+C:\Users\Jamie\source\repos\parameterExample\bin\Debug\parameterExample.pdb
+C:\Users\Jamie\source\repos\parameterExample\obj\Debug\parameterExample.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\parameterExample\obj\Debug\parameterExample.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\parameterExample\obj\Debug\parameterExample.exe
+C:\Users\Jamie\source\repos\parameterExample\obj\Debug\parameterExample.pdb
