@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\methodsExample\obj\Debug\methodsExample.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\methodsExample\obj\Debug\methodsExample.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\methodsExample\bin\Debug\methodsExample.exe.config
+C:\Users\Jamie\source\repos\methodsExample\bin\Debug\methodsExample.exe
+C:\Users\Jamie\source\repos\methodsExample\bin\Debug\methodsExample.pdb
+C:\Users\Jamie\source\repos\methodsExample\obj\Debug\methodsExample.exe
+C:\Users\Jamie\source\repos\methodsExample\obj\Debug\methodsExample.pdb
