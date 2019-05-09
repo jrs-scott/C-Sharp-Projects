@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\simpleClass\bin\Debug\simpleClass.exe.config
+C:\Users\Jamie\source\repos\simpleClass\bin\Debug\simpleClass.exe
+C:\Users\Jamie\source\repos\simpleClass\bin\Debug\simpleClass.pdb
+C:\Users\Jamie\source\repos\simpleClass\obj\Debug\simpleClass.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\simpleClass\obj\Debug\simpleClass.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\simpleClass\obj\Debug\simpleClass.exe
+C:\Users\Jamie\source\repos\simpleClass\obj\Debug\simpleClass.pdb
