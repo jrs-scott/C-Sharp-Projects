@@ -10,23 +10,13 @@ namespace loopsAndIteration
     {
         static void Main(string[] args)
         {
-            // Prompt the user to give input 5 times. Iterate through the input and add it to the empty string array. Then print the results one line at a time to the console.
-            Console.WriteLine("Build a sentence by entering one word at a time.");
-            string[] buildingArray = new string[5];
-            int wordNum = 0;
-            foreach (string word in buildingArray)
+            // Prompt the user to give input. Iterate through the sentence string array, and print each item with their text added
+            Console.WriteLine("Enter some text. It will be added to finish a few, silly sentences: ");
+            string inputText = Console.ReadLine();
+            string[] sentenceArray = new string[3] {"The bear was", "Surely it's not", "Sometimes people are"};
+            foreach (string item in sentenceArray)
             {
-                Console.WriteLine("Please enter word " + Convert.ToString(wordNum + 1) + ":");
-                buildingArray[wordNum] = Console.ReadLine();
-                wordNum++;
-                if (wordNum == 5)
-                {
-                    Console.WriteLine("\nYour sentence is:");
-                    foreach (string item in buildingArray)
-                    {
-                        Console.WriteLine(item.ToString());
-                    }
-                }
+                Console.WriteLine("{0} {1}.", item, inputText);            
             }
 
             // Create and fix an infinite loop.
