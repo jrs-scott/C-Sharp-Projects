@@ -1,0 +1,6 @@
+C:\Users\Jamie\source\repos\superclassExample\bin\Debug\superclassExample.exe.config
+C:\Users\Jamie\source\repos\superclassExample\bin\Debug\superclassExample.exe
+C:\Users\Jamie\source\repos\superclassExample\bin\Debug\superclassExample.pdb
+C:\Users\Jamie\source\repos\superclassExample\obj\Debug\superclassExample.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\superclassExample\obj\Debug\superclassExample.exe
+C:\Users\Jamie\source\repos\superclassExample\obj\Debug\superclassExample.pdb
