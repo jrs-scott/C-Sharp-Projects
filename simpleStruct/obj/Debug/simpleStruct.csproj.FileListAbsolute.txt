@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\simpleStruct\bin\Debug\simpleStruct.exe.config
+C:\Users\Jamie\source\repos\simpleStruct\bin\Debug\simpleStruct.exe
+C:\Users\Jamie\source\repos\simpleStruct\bin\Debug\simpleStruct.pdb
+C:\Users\Jamie\source\repos\simpleStruct\obj\Debug\simpleStruct.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\simpleStruct\obj\Debug\simpleStruct.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\simpleStruct\obj\Debug\simpleStruct.exe
+C:\Users\Jamie\source\repos\simpleStruct\obj\Debug\simpleStruct.pdb
