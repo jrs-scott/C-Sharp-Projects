@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\enumExample\bin\Debug\enumExample.exe.config
+C:\Users\Jamie\source\repos\enumExample\bin\Debug\enumExample.exe
+C:\Users\Jamie\source\repos\enumExample\bin\Debug\enumExample.pdb
+C:\Users\Jamie\source\repos\enumExample\obj\Debug\enumExample.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\enumExample\obj\Debug\enumExample.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\enumExample\obj\Debug\enumExample.exe
+C:\Users\Jamie\source\repos\enumExample\obj\Debug\enumExample.pdb
