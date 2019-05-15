@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\textLogExample\bin\Debug\textLogExample.exe.config
+C:\Users\Jamie\source\repos\textLogExample\bin\Debug\textLogExample.exe
+C:\Users\Jamie\source\repos\textLogExample\bin\Debug\textLogExample.pdb
+C:\Users\Jamie\source\repos\textLogExample\obj\Debug\textLogExample.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\textLogExample\obj\Debug\textLogExample.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\textLogExample\obj\Debug\textLogExample.exe
+C:\Users\Jamie\source\repos\textLogExample\obj\Debug\textLogExample.pdb
