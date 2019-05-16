@@ -1,0 +1,7 @@
+C:\Users\Jamie\source\repos\tryCatchExample\bin\Debug\tryCatchExample.exe.config
+C:\Users\Jamie\source\repos\tryCatchExample\bin\Debug\tryCatchExample.exe
+C:\Users\Jamie\source\repos\tryCatchExample\bin\Debug\tryCatchExample.pdb
+C:\Users\Jamie\source\repos\tryCatchExample\obj\Debug\tryCatchExample.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\tryCatchExample\obj\Debug\tryCatchExample.exe
+C:\Users\Jamie\source\repos\tryCatchExample\obj\Debug\tryCatchExample.pdb
+C:\Users\Jamie\source\repos\tryCatchExample\obj\Debug\tryCatchExample.csprojAssemblyReference.cache
